@@ -7,11 +7,7 @@ https://support.10xgenomics.com/single-cell-gene-expression/datasets/3.0.0/pbmc_
 ## R Analysis outline
 The procedures performed are as follows:
 1. Read 10X sequencing data and change it into a seurat object
-2. Standard pre-processing workflow
-       - QC and selecting cells for further analysis 
-       - Normalizing the data
-       - Identification of highly variable features (feature selection) 
-       - Scaling the data
+2. Standard pre-processing workflow (QC and selecting cells for further analysis, Normalizing the data, Identification of highly variable features (feature selection, Scaling the data)
 3. Perform linear dimensional reduction
 4. Cluster the cells
 5. Run non-linear dimensional reduction (UMAP/tSNE)
