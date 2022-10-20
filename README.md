@@ -21,3 +21,7 @@ R 4.2.1 (2022-06-23)
 * [ggplot2](https://ggplot2.tidyverse.org/)
 
 The data was analyzed using Ubuntu 20.04.6 LTS
+
+## Reference
+
+Seurat - Guided Clustering Tutorial (https://satijalab.org/seurat/articles/pbmc3k_tutorial.html)
